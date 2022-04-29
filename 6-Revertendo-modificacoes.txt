@@ -1,8 +1,0 @@
-git log   //  Para saber o log do commit 
-
-HEAD - mostra o branch que vc está
-
-
-git branch  // Mostra o branch  que vc está
-
-
